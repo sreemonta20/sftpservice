@@ -1,4 +1,6 @@
-﻿## Procedure to run the project (.NET 6)
+﻿# sftpservice
+Windows worker service (hosted service) for downloading sftp server file 
+## Procedure to run the project (.NET 6)
 
 ### Compatibility Check
 
@@ -42,7 +44,7 @@ Open Package Manager Console
 
 ### Procedure to run the project (Example)  ****
 
-- Download the project from github (https://github.com/sreemonta20/secure-ftp-service.git) (1)
+- Download the project from github (https://github.com/sreemonta20/sftpservice.git) (1)
 - Keep the project in a suitable location in your computer 
 - Download Rebex Tiny SFTP Server (free) from the link https://www.rebex.net/tiny-sftp-server/#download
 - Keep the downloaded rebex tiny server software in a suitable location of your computer.
